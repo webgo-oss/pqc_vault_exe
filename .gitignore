@@ -1,0 +1,17 @@
+__pycache__
+encrypted
+keys
+recovered
+signatures
+temp_uploads
+uploads
+vault_backup
+pqc_keys.py
+BEFORE.txt
+LICENSE.txt
+main.spec
+pqc.ico
+PQCVault.iss
+README.txt
+dist
+.pyarmor
