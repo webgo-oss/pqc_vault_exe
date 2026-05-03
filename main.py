@@ -45,8 +45,8 @@ def ensure_env():
     if not CONFIG_PATH.exists():
         default_config = {
             "supabase": {
-                "url": "https://ysyksgumpwsmoyghbtai.supabase.co",
-                "key": "sb_publishable_rMkJeLrumomHcm3IVeX9Hg_uKTAWtgV" 
+                 "url": "database url",
+                "key": "database key" 
             },
             "auth": {"refresh_token": None, "email": None}
         }
