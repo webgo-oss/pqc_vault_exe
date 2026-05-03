@@ -8,7 +8,7 @@ It allows you to encrypt, store, and manage files and other media securely using
 ##  Download The App
 
 -  Website: https://pqc-vault-live.vercel.app  
--  Download (Windows): https://github.com/webgo-oss/pqc_vault_exe/releases/latest/download/pqc-vault-1.0-setup-x64.exe  
+-  Download (Windows): https://github.com/webgo-oss/pqc_vault_exe/releases/download/v1.5/PQC_Vault.exe
 
 ---
 
