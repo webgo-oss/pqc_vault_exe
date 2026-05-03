@@ -1,0 +1,11 @@
+click
+PyYAML
+pyperclip
+rich
+supabase
+prompt-toolkit
+
+cryptography
+pqcrypto
+pynacl
+argon2-cffi
